@@ -1,0 +1,45 @@
+type = "function"
+
+[data]
+type = "dict"
+
+[data.data]
+
+[data.data.__globals__]
+type = "dict"
+
+[data.data.__globals__.data]
+
+[data.data.attributes]
+type = "dict"
+
+[data.data.attributes.data]
+#__defaults__ = null  # To use: uncomment and replace null with value
+#__closure__ = null  # To use: uncomment and replace null with value
+
+[data.data.attributes.data.__name__]
+type = "str"
+data = "add"
+
+[data.data.attributes.data.__code__]
+type = "codeobject"
+
+[data.data.attributes.data.__code__.data]
+type = "dict"
+
+[data.data.attributes.data.__code__.data.data]
+
+[data.data.attributes.data.__code__.data.data.co_argcount]
+type = "int"
+data = 2
+
+[data.data.attributes.data.__code__.data.data.co_cellvars]
+type = "tuple"
+data = []
+
+[data.data.attributes.data.__code__.data.data.co_code]
+type = "bytes"
+data = [124, 0, 124, 1, 23, 0, 83, 0]
+
+[data.data.attributes.data.__code__.data.data.co_consts]
+type = "tuple"
